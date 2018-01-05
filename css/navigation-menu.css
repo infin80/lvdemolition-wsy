@@ -176,6 +176,23 @@ body#contactpage .ow-navigation .nav.navbar-nav li#contactnav > a i::before,
 }
 
 
+/* -- min-width: 992 to max-width: 1200 */
+.ow-navigation .nav.navbar-nav li > a:hover i::before,
+.ow-navigation .nav.navbar-nav li > a:focus i::before,
+.ow-navigation .nav.navbar-nav li.active > a i::before,
+body#homepage .ow-navigation .nav.navbar-nav li#homenav > a i::before,
+body#historypage .ow-navigation .nav.navbar-nav li#historynav > a i::before,
+body#servicespage .ow-navigation .nav.navbar-nav li#servicesnav > a i::before,
+body#safetypage .ow-navigation .nav.navbar-nav li#safetynav > a i::before,
+body#licensepage .ow-navigation .nav.navbar-nav li#licensenav > a i::before,
+body#contactpage .ow-navigation .nav.navbar-nav li#contactnav > a i::before,
+.ow-navigation .nav.navbar-nav li:hover > a i::before,
+.ow-navigation .nav.navbar-nav li:focus > a i::before {
+	right: -8px;
+	border-left: 12px solid #132d6e;
+
+}
+
 
 /* -- min-width: 992 to max-width: 1200 */
 .ow-navigation .nav.navbar-nav li > a:hover i::before,

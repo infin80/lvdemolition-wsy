@@ -10,10 +10,10 @@
 	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	    <meta name="description" content="For hotel and casino implosion services, mold, asbestos removal &amp; hazardous material abatement, contact Las Vegas Demolition and Environmental Services">
+	    <meta name="description" content="Las Vegas Demolition and Environmental Services are experienced dismantlement pros focused on safety, efficiency and ordinance compliance">
 	    <meta name="author" content="infin80">
 
-	    <title>Las Vegas Demolition services inc. Implosions &amp; Mold, Asbestos Abatement</title>
+	    <title>Safe Casino, Hotel, Structrural Demolishment &amp; Implosion Company</title>
 
 		<!-- Standard Favicon -->
 		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
@@ -91,17 +91,18 @@
 
 				<!-- Page Header -->
 				<div class="container-fluid no-padding page-banner about-banner row">
-					<h3>Las Vegas Demolition Expertise</h3>
+					<h3>Implosion and Demolition</h3>
 					<ol class="breadcrumb no-padding no-bottom-margin">
-						<li><a href="index.html">Home</a></li>
-						<li class="active">Our Services</li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="las-vegas-demolition-services.php">Our Areas of Expertise</a></li>
+						<li class="active">Demolition, Implosion &amp; Dismantlement</li>
 					</ol>
 				</div><!-- Page Header /- -->
 
 				<!-- About Section -->
 				<figure id="about-section" class="about-section container-fluid">
-					<img src="images/las-vegas-hotel-casino-demolition.jpg" alt="Riviera Las Vegas Hotel Casino Demolition" width="1110" height="534" />
-					<figcaption>Las Vegas&rsquo; Riviera Hotel &amp; Casino demolition clearing after implosion which occurred on July 15, 2015</figcaption>
+					<img src="images/implosion-demolishment-of-las-vegas-casino.jpg" alt="Implosion &amp; demolishment of iconic Las Vegas hotel" width="1110" height="534" />
+					<figcaption>Photo of implosion and demolishment of the iconic Las Vegas&rsquo; Riviera Hotel &amp; Casino on July 15, 2015</figcaption>
 				</figure><!-- About Section /- -->
 
 				<div class="seperator-border row"></div>
@@ -109,35 +110,37 @@
 				<!-- Team Section -->
 				<div id="service-section" class="service-section container-fluid">
 					<div class="section-header">
-						<h1>Those in the know know to Contact Las Vegas Demolition</h1>
+						<h1>Implosions, Demolitions, Deconstruction &amp; Dismantlement</h1>
 					</div>
 					<div class="row">
 						<div class="col-xs-12 intro-text">
-						<h2>Leave the Heavy Lifting and the Cleanup to the Pros at LVD</h2>
+						<h2>LVD has the Knowledge, Experience &amp; Tools to Get the Job Done Right</h2>
 							<p>Las Vegas offers the most alluring accommodations, restaurants, shows, concerts, nightlife and gaming options in the world. It has become a vacation destination for both the adventurous single to the modern family. Our fine city’s popularity created a demand for Hotels and Casinos to constantly reinvent and renovate their structures.</p>
 							<p><b>Las Vegas Demolition and Environmental Services, LLC.</b><sup>®</sup>, was created on the need to provide Nevada with safe, efficient and quality demolition services in a timely manner due to the mass population growth and increasing tourism. Brothers Joe and Sal Catania have been a force to be reckoned with in the Hotel and Casino demolition industry for over a decade. In addition, the Catania brother’s management team that makes up <abbr title="Las Vegas Demolition">LVD</abbr> has been working together on various projects for 15 years with a combined total of 86 years experience in the demolition abatement industry.</p>
 						</div>
 					</div>
 				</div>
 
+
 					<!-- Section Header -->
 					<div class="section-header">
-						<h3>Learn More About Our Services</h3>
+						<h3>Learn More About Our Other Services</h3>
 					</div> <!-- Section Header /- -->
 
 							<!-- Features Section -->
 							<div id="features-section" class="features-section container-fluid no-padding">
 								<div class="row">
 									<!-- Nav tabs -->
-									<ul class="nav nav-tabs" role="tablist">
+									<ul class="nav nav-tabs" role="tablist" id="lvdservices">
+
 										<li role="presentation">
-											<a href="#implosion" role="tab" data-toggle="tab">
+											<span id="#implosion" role="tab">
 												<i>
-													<img src="images/features/building-demolition.png" alt="Building Implosion and Demolitions" width="245" height="186" />
+													<!-- <img src="images/features/building-demolition.png" alt="Building Implosion and Demolitions" width="245" height="186" /> -->
 													<img src="images/features/building-demolition-w.png" alt="Building Implosions and Demolition" width="245" height="186" />
 												</i>
-												Demolition &amp; Implosion</a></li>
-											</a>
+												Demolition &amp; Implosion
+											</span>
 										</li>
 										<li role="presentation">
 											<a href="#asbestos-abatement" role="tab" data-toggle="tab">
@@ -148,10 +151,10 @@
 												Asbestos Abatement
 											</a>
 										</li>
-										<li role="presentation" class="active">
+										<li role="presentation">
 											<a href="#mold-removal" role="tab" data-toggle="tab">
 												<i>
-												<img src="images/features/mold-spore.png" alt="Mold abatement removal" width="228" height="240" />
+													<img src="images/features/mold-spore.png" alt="Mold abatement removal" width="228" height="240" />
 													<img src="images/features/mold-spore-w.png" alt="Mold abatement removal company" width="228" height="240" />
 												</i>
 												Mold Abatement
@@ -178,7 +181,7 @@
 									</ul>
 									<!-- Tab panes -->
 									<div class="tab-content container-fluid no-padding">
-										<div role="tabpanel" class="tab-pane" id="implosion">
+										<div role="tabpanel" class="tab-pane active" id="implosion">
 											<div class="col-md-4 col-sm-5">
 												<img src="images/features/implosion-and-demolition-las-vegas.jpg" alt="Demolition and implosion services in Las Vegas" width="375" height="250" />
 											</div>
@@ -199,7 +202,7 @@
 												<a href="asbestos-abatement.php" title="Asbestos Abatement Removal Company" class="contact-button">Asbestos Abatement &amp; Removal</a>
 											</div>
 										</div>
-										<div role="tabpanel" class="tab-pane active" id="mold-removal">
+										<div role="tabpanel" class="tab-pane" id="mold-removal">
 											<div class="col-md-4 col-sm-5">
 											<img src="images/features/dangerous-mold-abatement-service.jpg" alt="Las Vegas Mold Removal and Abatement" width="375" height="250" />
 											</div>

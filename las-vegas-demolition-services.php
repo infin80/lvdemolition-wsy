@@ -91,10 +91,10 @@
 
 				<!-- Page Header -->
 				<div class="container-fluid no-padding page-banner about-banner row">
-					<h3>Las Vegas Demolition Expertise</h3>
+					<h3>Las Vegas Demolition&rsquo; Services</h3>
 					<ol class="breadcrumb no-padding no-bottom-margin">
 						<li><a href="index.html">Home</a></li>
-						<li class="active">Our Services</li>
+						<li class="active">Our Areas of Expertise</li>
 					</ol>
 				</div><!-- Page Header /- -->
 
