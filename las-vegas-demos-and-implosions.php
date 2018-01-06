@@ -121,29 +121,31 @@
 					</div>
 				</div>
 
+<!-- Section Header -->
+									<div class="section-header">
+										<h3>Learn More About Our Other Services</h3>
+									</div> <!-- Section Header /- -->
 
-					<!-- Section Header -->
-					<div class="section-header">
-						<h3>Learn More About Our Other Services</h3>
-					</div> <!-- Section Header /- -->
 
 							<!-- Features Section -->
 							<div id="features-section" class="features-section container-fluid no-padding">
-								<div class="row">
-									<!-- Nav tabs -->
-									<ul class="nav nav-tabs" role="tablist" id="lvdservices">
 
-										<li role="presentation">
-											<span id="#implosion" role="tab">
+								<div class="row" id="lvdservices">
+									<!-- Nav tabs -->
+									<ul class="nav nav-tabs" role="tablist">
+
+										<li role="presentation" class="disabled active">
+											<!-- <a href="#implosion" role="tab"> -->
+											<a href="las-vegas-demos-and-implosions.php" title="Demolition &amp; Implosion">
 												<i>
-													<!-- <img src="images/features/building-demolition.png" alt="Building Implosion and Demolitions" width="245" height="186" /> -->
+													<img src="images/features/building-demolition.png" alt="Building Implosion and Demolitions" width="245" height="186" />
 													<img src="images/features/building-demolition-w.png" alt="Building Implosions and Demolition" width="245" height="186" />
 												</i>
 												Demolition &amp; Implosion
-											</span>
+											</a>
 										</li>
 										<li role="presentation">
-											<a href="#asbestos-abatement" role="tab" data-toggle="tab">
+											<a href="asbestos-abatement.php" role="tab" data-toggle="tab" title="Asbestos Abatement Removal Company" >
 												<i>
 													<img src="images/features/asbestos.png" alt="Asbestos abatement removal" width="244" height="194" />
 													<img src="images/features/asbestos-w.png" alt="asbestos abatement removal company" width="244" height="194">
@@ -152,7 +154,7 @@
 											</a>
 										</li>
 										<li role="presentation">
-											<a href="#mold-removal" role="tab" data-toggle="tab">
+											<a href="mold-abatement-removal.php" title="Mold Abatement Removal" role="tab" data-toggle="tab">
 												<i>
 													<img src="images/features/mold-spore.png" alt="Mold abatement removal" width="228" height="240" />
 													<img src="images/features/mold-spore-w.png" alt="Mold abatement removal company" width="228" height="240" />
@@ -161,7 +163,7 @@
 											</a>
 										</li>
 										<li role="presentation">
-											<a href="#hazardous-materials" role="tab" data-toggle="tab">
+											<a href="hazardous-material-disposal.php" title="Hazardous Material Disposal" role="tab" data-toggle="tab">
 												<i>
 													<img src="images/features/hazardous-materials.png" alt="Hazardous materials removal" width="240" height="226" />
 													<img src="images/features/hazardous-materials-w.png" alt="Company that removes hazardous materials" width="240" height="226" />
@@ -170,71 +172,16 @@
 											</a>
 										</li>
 										<li role="presentation">
-											<a href="#24hr-emergency" role="tab" data-toggle="tab">
+											<a href="emergency-response-support.php" title="24/7 Emergency Disaster Response" role="tab" data-toggle="tab">
 												<i>
-												<img src="images/features/24hr-emergency.png" alt="24 hour emergency service" width="196" height="190" >
-												<img src="images/features/24hr-emergency-w.png" alt="24 hour emergency services" width="196" height="190" >
+													<img src="images/features/24hr-emergency.png" alt="24 hour emergency service" width="196" height="190" >
+													<img src="images/features/24hr-emergency-w.png" alt="24 hour emergency services" width="196" height="190" >
 												</i>
 												24/7 Emergency Services
 											</a>
 										</li>
 									</ul>
-									<!-- Tab panes -->
-									<div class="tab-content container-fluid no-padding">
-										<div role="tabpanel" class="tab-pane active" id="implosion">
-											<div class="col-md-4 col-sm-5">
-												<img src="images/features/implosion-and-demolition-las-vegas.jpg" alt="Demolition and implosion services in Las Vegas" width="375" height="250" />
-											</div>
-											<div class="col-md-7 col-sm-7 feature-content">
-												<h3>Demolition &amp; Implosion</h3>
-												<p>Las Vegas Demolition excels in hotel and casino demolitions and implosions. Our skilled team of experienced technicians and employees allows us to handle any size job. LVD is also prepared to handle a wide variety of structures to include but not limited to apartment and high-rise buildings, chemical plants, power plants, airports as well as commercial office buildings.</p>
-												<a href="las-vegas-demos-and-implosions.php" title="Demolition &amp; Implosion" class="contact-button">Demolition &amp; Implosion</a>
-											</div>
-										</div>
-										<div role="tabpanel" class="tab-pane" id="asbestos-abatement">
-											<div class="col-md-4 col-sm-5">
-											<img src="images/features/asbestos-removal-and-abatement.jpg" alt="Asbestos abatement and removal" width="375" height="250" />
-											</div>
-											<div class="col-md-7 col-sm-7 feature-content">
-												<h3>Asbestos Abatement Removal Company</h3>
-												<p>Any home or building owner may encounter an asbestos-containing material (ACM) during the course of renovation, repair or demolition. ACMs can include insulation, plaster, floor or ceiling tiles, plaster, ductwork, roofing shingles, adhesives, and more.</p>
-												<p>As multiple scientific and regulatory bodies assert, there is no safe level of asbestos.</p>
-												<a href="asbestos-abatement.php" title="Asbestos Abatement Removal Company" class="contact-button">Asbestos Abatement &amp; Removal</a>
-											</div>
-										</div>
-										<div role="tabpanel" class="tab-pane" id="mold-removal">
-											<div class="col-md-4 col-sm-5">
-											<img src="images/features/dangerous-mold-abatement-service.jpg" alt="Las Vegas Mold Removal and Abatement" width="375" height="250" />
-											</div>
-											<div class="col-md-7 col-sm-7 feature-content">
-												<h3>Mold Abatement Removal Experts</h3>
-												<p>The professional team at Las Vegas Demolition, LLC. will establish a detailed scope of work including start and stop locations, square footage, and other tangible points of delineating the quantity of removal. Additionally, proper removal of mold will greatly impact the infected structure owner&rsquo;s financial liability.</p>
-												<a href="mold-abatement-removal.php" title="Mold Abatement Removal" class="contact-button">Mold Abatement Services</a>
-											</div>
-										</div>
-										<div role="tabpanel" class="tab-pane" id="hazardous-materials">
-											<div class="col-md-4 col-sm-5">
-											<img src="images/features/hazardous-material-cleanup.jpg" alt="Hazardous material cleanup" width="375" height="250" />
-											</div>
-											<div class="col-md-7 col-sm-7 feature-content">
-												<h3>Hazardous Material Disposal</h3>
-												<p>Las Vegas Demolition takes precaution and the health and safety of the community seriously, effectively and go above and beyond other local removal companies. Extreme care, expeditious removal and management of hazardous material is performed masterfully by our experts. The term &lsquo;Cradle to Grave&rsquo; is a responsibility used to describe the liability and ownership for any facility or person that generates a hazardous material that is classified as a hazardous substance.</p>
-												<a href="hazardous-material-disposal.php" title="Hazardous Material Disposal" class="contact-button">Hazardous Material Disposal</a>
-											</div>
-										</div>
-										<div role="tabpanel" class="tab-pane" id="24hr-emergency">
-											<div class="col-md-4 col-sm-5">
-												<img src="images/features/emergency-disaster-response.jpg" alt="Emergency disaster response" width="375" height="250" />
-											</div>
-											<div class="col-md-7 col-sm-7 feature-content">
-												<h3>24/7 Emergency Disaster Response</h3>
-												<p>By adopting an integrated approach to Emergency Response Action (Spills) planning, Las Vegas Demolition maintains a state of readiness for incidents occurring just about anywhere and at any time.</p>
-												<p>Due to our working relationship with the Union, LVD can multiply our man-power in an instant.</p>
-												<a href="emergency-response-support.php" title="24/7 Emergency Disaster Response" class="contact-button">24/7 Emergency Response</a>
-											</div>
-										</div>
 
-									</div><!-- Tab panes /- -->
 								</div>
 							</div><!-- Features Section /- -->
 

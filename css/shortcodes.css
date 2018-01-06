@@ -568,9 +568,29 @@
 	padding-bottom: 35px;
 	position: relative;
 }
+
+.features-section #lvdservices .nav-tabs li.active.disabled:hover::before,
+.features-section #lvdservices .nav-tabs li.active.disabled:focus::before,
+ /* .features-section #lvdservices .nav-tabs li.active::before */ {
+	content: "View Page ➞";
+	width: 90%;
+	position: absolute;
+	/* left: 0; */
+	margin: 0 auto;
+	bottom: 15px;
+	/* right: 0; */
+	text-align: center;
+	border: none;
+	color: #83868b;
+	font: 300 14px "Roboto Slab", serif;
+	white-space: nowrap;
+}
 .features-section .nav-tabs li:hover::before,
 .features-section .nav-tabs li:focus::before,
-.features-section .nav-tabs li.active::before {
+.features-section .nav-tabs li.active::before,
+.features-section .nav-tabs li.active.disabled::before,
+.features-section #lvdservices .nav-tabs li.disabled:hover::before,
+.features-section #lvdservices .nav-tabs li.disabled:focus::before {
 	content: "";
 	width: 23px;
 	border-left: 15px solid transparent;
@@ -601,6 +621,11 @@
 	transition: all 0.3s ease 0s;
 	background-color: rgba(63,65,68,0.05);
 }
+
+
+/* -- max-width: 991 */
+.features-section .nav-tabs li a i {
+}
 .features-section .nav-tabs li a i img {
 	max-height: 40px;
 	width: auto;
@@ -626,7 +651,7 @@
 	height: auto;
 }
 .features-section .nav-tabs li a {
-	color: rgba(63,65,68,0.75);
+	color: rgba(63,65,68,0.5);
 	margin: 0;
 	border: none;
 	text-transform: capitalize;
@@ -643,7 +668,9 @@
 .features-section .nav-tabs > li.active > a:hover {
 	color: #132d6e;
 	background: transparent;
-	font-size: 120%;
+	font-size: 21px;
+	line-height: 24px;
+	white-space: nowrap; 
 }
 .features-section .nav-tabs > li > a:hover i,
 .features-section .nav-tabs > li > a:focus i,
@@ -656,6 +683,19 @@
 	box-shadow: none;
 	margin-top: 0;
 	margin-bottom: 33px;
+}
+.features-section .nav-tabs > li.disabled > a,
+.features-section .nav-tabs > li.disabled > a:focus,
+.features-section .nav-tabs > li.disabled > a:hover {
+	color: #bbbcc0;
+	cursor: default;
+}
+
+.features-section .nav-tabs > li.disabled > a i,
+.features-section .nav-tabs > li.disabled > a:focus i,
+.features-section .nav-tabs > li.disabled > a:hover i {
+	background-color: #bbbcc0;
+	cursor: default;
 }
 .features-section .nav-tabs > li.active > a i::after,
 .features-section .nav-tabs > li.active > a:focus i::after,
@@ -674,6 +714,7 @@
 	position: absolute;
 	z-index: -1;
 }
+
 .features-section .tab-content {
 	background-image: url("../images/features/feature-content-bg.jpg");
 	background-size: cover;
