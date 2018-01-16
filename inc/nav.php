@@ -18,9 +18,9 @@
           <a class="dropdown-toggle" href="las-vegas-demolition-services.php"><i><img src="images/icon/services-items.png" alt="LVD Services" height="24" /></i>What We Do <i class="ddl-switch fa fa-angle-down"></i></a>
           <ul class="dropdown-menu">
             <li><a href="las-vegas-demos-and-implosions.php">Demolition/Implosion</a></li>
-            <li><a href="asbestos-abatement.php">Asbestos Abatement</a></li>
+            <li><a href="asbestos-abatement-professionals.php">Asbestos Abatement</a></li>
             <li><a href="mold-abatement-removal.php">Mold Removal</a></li>
-            <li><a href="hazardous-material-disposal.php">Hazardous Material</a></li>
+            <li><a href="disposal-of-toxic-hazardous-material.php">Hazardous Material</a></li>
             <li><a href="emergency-response-support.php">Emergency Services</a></li>
           </ul>
         </li>

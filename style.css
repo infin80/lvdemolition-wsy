@@ -98,15 +98,10 @@ h1 {
 	line-height: 1.25;
 	text-transform: uppercase;
 }
-figcaption {
-	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
-	font-style: italic;
-	text-align: center;
-	display:block;
-	margin: 5px auto;
-	font-size: 13px;
-}
+
+.float-right {float: right}
+
+
 
 .ow-navigation .nav.navbar-nav li a,
 .page-banner ol li,
@@ -665,7 +660,7 @@ ul {
 /* -- Page Header */
 .page-banner {
 	height:136px;
-	background-image: url("images/about/banner-las-vegas-demo-history.jpg");
+	background-image: url("images/about/las-vegas-demolishment-environment-bnr.jpg");
 	background-repeat: no-repeat;
 	text-align: center;
 	color: #dadede;
@@ -676,6 +671,7 @@ ul {
 	font-weight: bold;
 	margin: 0;
 	text-transform: uppercase;
+	color: #404041;
 }
 .page-banner ol {
 	background-color: transparent;
@@ -683,13 +679,18 @@ ul {
 	margin:0;
 }
 .page-banner ol li {
-	text-transform: lowercase;
+	text-transform: capitalize;
 	font-size: 13px;
 	font-weight: 300;
 }
-.page-banner ol li a,
-.page-banner .breadcrumb > .active {
+.page-banner ol li a {
 	color: #fff;
+	text-shadow: 0 1px 3px #404041;
+}
+
+/* -- max-width: 580 */
+.page-banner .breadcrumb > .active {
+	color: #c7c8cb;
 }
 .breadcrumb > li + li::before {
 	content:"\f0a9";
