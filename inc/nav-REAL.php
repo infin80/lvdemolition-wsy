@@ -19,14 +19,14 @@
           <ul class="dropdown-menu">
             <li><a href="las-vegas-demos-and-implosions.php">Demolition/Implosion</a></li>
             <li><a href="asbestos-abatement-professionals.php">Asbestos Abatement</a></li>
-            <li><a href="#" title="mold-abatement-removal" onclick="return false;">Mold Removal</a></li>
-            <li><a href="#" title="disposal-of-toxic-hazardous-material" onclick="return false;">Hazardous Material</a></li>
-            <li><a href="#" title="emergency-response-support" onclick="return false;">Emergency Services</a></li>
+            <li><a href="mold-abatement-removal.php">Mold Removal</a></li>
+            <li><a href="disposal-of-toxic-hazardous-material.php">Hazardous Material</a></li>
+            <li><a href="emergency-response-support.php">Emergency Services</a></li>
           </ul>
         </li>
-        <li id="safetynav"><a href="#" title="public-health-and-safe-implosions" onclick="return false;"><i><img src="images/icon/safety-menu.png" alt="Health and Safety" /></i>Health &amp; Safety</a></li>
-        <li id="licensenav"><a href="#" title="demolition-license-and-insurance" onclick="return false;"><i><img src="images/icon/license-menu.png" alt="Insurance &amp; Licenses" /></i>License Insurance</a></li>
-        <li id="contactnav"><a href="contact-las-vegas-demolition.php"><i><img src="images/icon/contact-phone.png" alt="Contact Us" /></i>Get in Touch</a></li>
+        <li id="safetynav"><a href="public-health-and-safe-implosions.php"><i><img src="images/icon/safety-menu.png" alt="Health and Safety" /></i>Health &amp; Safety</a></li>
+        <li id="licensenav"><a href="demolition-license-and-insurance.php"><i><img src="images/icon/license-menu.png" alt="Insurance &amp; Licenses" /></i>License Insurance</a></li>
+        <li id="contactnav"><a href="find-las-vegas-demolition.php"><i><img src="images/icon/contact-phone.png" alt="Contact Us" /></i>Get in Touch</a></li>
       </ul>
     </div><!--/.nav-collapse -->
   </nav><!-- nav /- -->
