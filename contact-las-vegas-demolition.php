@@ -45,7 +45,7 @@
 
 				<!-- Page Header -->
 				<div class="container-fluid no-padding page-banner about-banner row">
-					<h3>Las Vegas Demolition&rsquo; Services</h3>
+					<h3>Las Vegas Demolition&rsquo;s Services</h3>
 					<ol class="breadcrumb no-padding no-bottom-margin">
 						<li><a href="index.html">Home</a></li>
 						<li class="active">Get in Touch</li>
@@ -55,10 +55,10 @@
 				<!-- About Section -->
 				<figure id="about-section" class="about-section container-fluid">
 					<img src="images/las-vegas-demolition-environmental-main-office.jpg" alt="Main Office of Las Vegas Demolition &amp; Environmental Services" width="1110" height="534" />
-					<figcaption>Here is the front office for Las Vegas Demolition and Environmental Services, LLC.<sup>®</sup> located behind The Orleans Hotel &amp; Casino, just west of S. Decatur Blvd. and south of W. Harmon Ave.</figcaption>
+					<figcaption>Main office of Las Vegas Demolition and Environmental Services, LLC.<sup>®</sup> located behind The Orleans Hotel &amp; Casino, just west of S. Decatur Blvd. and south of W. Harmon Ave.</figcaption>
 				</figure><!-- About Section /- -->
 
-				<iframe width="1280" height="720" src="https://www.youtube.com/embed/ft-2AVKROGs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<iframe width="960" height="540" class="center-block" src="https://www.youtube.com/embed/ft-2AVKROGs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 				<div class="seperator-border row"></div>
 
@@ -68,31 +68,34 @@
 					<div class="contact-block">
 						<i class="fa fa-map-marker"></i>
 						<span>Address</span>
-						<p>E-44, Design Street, Web Corner,</p>
-						<p>Melbourne - 005</p>
+						<p>Las Vegas Demolition and Environmental Services, LLC.<sup>®</sup></p>
+						<p>4795 Quality Court</p>
+						<p>Las Vegas, NV 89103</p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div class="contact-block">
-						<i class="fa fa-mobile"></i>
-						<span>Phone</span>
-						<p>(+1) 1800 457 678</p>
-						<p>(+2) 1800 458 678</p>
+						<i class="fa fa-phone"></i>
+						<span>Phone/Fax</span>
+						<p><em>(Office)</em> <strong><a tel="7022571549">(702) 257-1549</a></strong></p>
+						<p><em>(Fax)</em> (702) 257-1689</p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div class="contact-block">
 						<i class="fa fa-envelope"></i>
 						<span>Email</span>
-						<p><a href="mailto:info@yourdomain.com">info@yourdomain.com</a></p>
-						<p><a href="mailto:support@yourdomain.com">support@yourdomain.com</a></p>
+						<p><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#108;&#118;&#100;&#101;&#109;&#111;&#108;&#105;&#116;&#105;&#111;&#110;&#46;&#99;&#111;&#109;">&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#108;&#118;&#100;&#101;&#109;&#111;&#108;&#105;&#116;&#105;&#111;&#110;&#46;&#99;&#111;&#109;</a></p>
+						<p><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#106;&#99;&#97;&#116;&#97;&#110;&#105;&#97;&#64;&#108;&#118;&#100;&#101;&#109;&#111;&#108;&#105;&#116;&#105;&#111;&#110;&#46;&#99;&#111;&#109;">&#106;&#99;&#97;&#116;&#97;&#110;&#105;&#97;&#64;&#108;&#118;&#100;&#101;&#109;&#111;&#108;&#105;&#116;&#105;&#111;&#110;&#46;&#99;&#111;&#109;</a></p>
 					</div>
 				</div>
 			</div><!-- Contact Us /- -->
 
 			<!-- Map Section -->
 			<div class="map container-fluid">
-				<div class="map-canvas" id="map-canvas-contact" data-lat="-37.818415" data-lng="144.989050" data-string="E-44, Design Street, Web Corner, Melbourne - 005" data-zoom="10"></div>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12893.919845119743!2d-115.2060738!3d36.106163!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc784fae6dc1765bc!2sLas+Vegas+Demolition+%26+Environmental+Services!5e0!3m2!1sen!2sus!4v1516167589206" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+				<div class="map-canvas" id="map-canvas-contact" data-lat="36.106163" data-lng="-115.2060738" data-string="Las Vegas Demolition and Environmental Services, LLC., 4795 Quality Court, Las Vegas, NV 89103" data-zoom="10"></div>
 			</div><!--  Map Section /- -->
 
 			<div class="contact-form container-fluid">
