@@ -77,7 +77,7 @@
 				<div id="team-section" class="team-section container-fluid">
 					<div class="intro-text">
 						<p>Las Vegas offers the most alluring accommodations, restaurants, shows, concerts, nightlife and gaming options in the world. It has become a vacation destination for both the adventurous single to the modern family. Our fine city’s popularity created a demand for Hotels and Casinos to constantly reinvent and renovate their structures.</p>
-						<p><b>Las Vegas Demolition LLC.</b>, was created on the need to provide Nevada with safe, efficient and quality demolition services in a timely manner due to the mass population growth and increasing tourism. Brothers Joe and Sal Catania have been a force to be reckoned with in the Hotel and Casino demolition industry for over a decade. In addition, the Catania brother’s management team that makes up LVD has been working together on various projects for 15 years with a combined total of 86 years experience in the demolition abatement industry.</p>
+						<p><strong>Las Vegas Demolition and Environmental Services, LLC.</strong>><sup>®</sup>, was created on the need to provide Nevada with safe, efficient and quality demolition services in a timely manner due to the mass population growth and increasing tourism. Brothers Joe and Sal Catania have been a force to be reckoned with in the Hotel and Casino demolition industry for over a decade. In addition, the Catania brother’s management team that makes up LVD has been working together on various projects for 15 years with a combined total of 86 years experience in the demolition abatement industry.</p>
 					</div>
 
 					<!-- Section Header -->

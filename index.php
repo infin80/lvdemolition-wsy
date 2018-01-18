@@ -46,21 +46,27 @@
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner" role="listbox">
 							<div class="item active">
-								<img src="images/slider/slide-1.jpg" alt="Slide">
+								<img src="images/slider/slide-1.jpg" alt="Regulations and OSHA compliance adhearance">
 								<div class="carousel-caption">
 									<h3>LVD ensures compliance in all <b>demolition &amp; enviromental</b> services</h3>
 								</div>
 							</div>
 							<div class="item">
-								<img src="images/slider/slide-2.jpg" alt="Slide">
+								<img src="images/slider/slide-2.jpg" alt="Health and safety commitment">
 								<div class="carousel-caption">
 									<h3>The <b>health and safety</b> of all involved is of utmost importance</h3>
 								</div>
 							</div>
 							<div class="item">
-								<img src="images/slider/slide-3.jpg" alt="Slide">
+								<img src="images/slider/slide-3.jpg" alt="Assessment of health hazards">
 								<div class="carousel-caption">
-									<h3>We also handle the removal of any <b>hazardous materials</b> and debris</h3>
+									<h3>LVD assesses <b>health hazards</b> prior to beginning any work</h3>
+								</div>
+							</div>
+							<div class="item">
+								<img src="images/slider/6-story-building-demo-slide.jpg" alt="Demolition of large buildings in Las Vegas">
+								<div class="carousel-caption">
+									<h3>Excavator completing the demolition of Kinhead building in Carson City</h3>
 								</div>
 							</div>
 						</div>
@@ -77,7 +83,7 @@
 			<!-- Services Section -->
 			<div id="service-section" class="service-section container-fluid">
 				<div class="section-header">
-					<h1>Welcome to Las Vegas Demolition &amp; Environmental Services</h1>
+					<h1>Welcome to Las Vegas Demolition and Environmental Services, LLC.<sup>®</sup></h1>
 				</div>
 					<div class="row">
 						<div class="col-xs-12 intro-text">
@@ -99,14 +105,14 @@
 							<!-- <source src="video/las-vegas-demo-palace-station-iphone-475x269.mp4" type="video/mp4"> -->
 						</video>
 						<figcaption><strong>Demolition of Palace Station</strong><br>
-							View LVD demolishment process of Palace Station&rsquo;s Bingo Hall and Bungalows (2&#xbd; min)</figcaption>
+							View <b>LVD</b> demolishment process of Palace Station&rsquo;s Bingo Hall and Bungalows (2&#xbd; min)</figcaption>
 						</figure>
 
-						<p>Las Vegas Demolition, LLC. is a demolition contractor located in the heart of beautiful Las Vegas, Nevada. XX+ years of hands-on experience handling all stages of services, from obtaining permits to the demolition to the clearance of all materials, takes the burden off of our client's shoulders.</p>
-						<p>Additionally, LVD is fully equipped to handle, manage and control the elimination of hazardous materials and safe-guarding the public and perimeters. This ensuring the health and safety of all the citizens as well as protection from any damage to surrounding structures.</p>
+						<p><strong>Las Vegas Demolition and Environmental Services, LLC.</strong><sup>®</sup> is a demolition contractor located in the heart of beautiful Las Vegas, Nevada. XX+ years of hands-on experience handling all stages of services, from obtaining permits to the demolition to the clearance of all materials, takes the burden off of our client&rsquo;s shoulders.</p>
+						<p>Additionally, <abbr title="Las Vegas Demolition and Environmental Services, LLC.®">LVD</abbr> is fully equipped to handle, manage and control the elimination of hazardous materials and safe-guarding the public and perimeters. This ensuring the health and safety of all the citizens as well as protection from any damage to surrounding structures.</p>
 						<p>LVD is consistently advancing the techniques involved and containment of potentially dangerous debris and efficiently prepare for the takedown and cleanup of the surrounding area. Our clients need not concern themselves with the size, safety and/or removal of the demolished property. LVD&rsquo;s immaculate reputation stems from our dedicated and experienced employees, supervisors up to the top of the chain, our management.</p>
-						<blockquote>At LVD experience and dedication to our clients to perform efficient and effective demolition services of all types of buildings is a priority.</blockquote>
-						<p>Because we maintain our own fleet of powerful and necessary machinery, LVD is at the ready, prepared to knock down / demolish <strong>any size job</strong>! We are able to handle a wide variety of structures, such as:
+						<blockquote>At <b>LVD</b>, experience and dedication to our clients to perform efficient and effective demolition services of all types of buildings is a priority.</blockquote>
+						<p>Because we maintain our own fleet of powerful and necessary machinery, LVD is at the ready, prepared to knock down/demolish <strong>any size job</strong>! We are able to handle a wide variety of structures, such as:
 							<ul>
 								<li>Hotels and Casinos</li>
 								<li>Apartments and High-rise buildings</li>
@@ -118,11 +124,11 @@
 								<li>Virtually any large to enormous sized structure</li>
 							</ul>
 						</p>
-						<p>OSHA states &ldquo;Demolition is construction in reverse, with additional hazards.&rdquo; When demolition is conducted correctly, the hazards of demolition work can be controlled and eliminated with proper planning and engineering. The right personal protective equipment, necessary training, and compliance with OSHA is the golden standard and what LVD adheres to.</p>
+						<p>Occupational Safety and Health Administration (OSHA) states &ldquo;Demolition is construction in reverse, with additional hazards.&rdquo; When demolition is conducted correctly, the hazards of demolition work can be controlled and eliminated with proper planning and engineering. The right personal protective equipment, necessary training, and compliance with <abbr title="Occupational Safety and Health Administration">OSHA</abbr> is the golden standard and what LVD adheres to.</p>
 						<p>Dismantling, razing, destroying or wrecking of any building or structure is all part of demolition work. It involves many hazards associated with construction; however, demolition involves additional hazards due to unknown factors which makes demolition work particularly dangerous. These may include:
 						<img src="images/equipment/demolition-services-excavator.png" width="595" height="309" alt="Large Equipment Demolition Excavator" class="img-responsive excavator">
 							<ul>
-								<li>Changes from the structure's design introduced during construction</li>
+								<li>Changes from the structure&rsquo;s design introduced during construction</li>
 								<li>Approved or unapproved modifications that altered the original design</li>
 								<li>Unknown strengths or weaknesses of construction materials, such as post-tensioned concrete</li>
 								<li>Hazards created by the demolition methods used</li>
@@ -155,7 +161,7 @@
 						</div>
 						<h3 class="entry-title"><a href="#" title="Entry Title">Las Vegas Demolition Headquarters</a></h3>
 						<div class="entry-content">
-							<p>Put some good copy here. Our main office is located near The Orleans Casino on 4795 Quality Court, Las Vegas, NV 89103. The professional team at Las Vegas Demolition, LLC. will establish a detailed scope of work including start and stop locations...</p>
+							<p>Put some good copy here. Our main office is located near The Orleans Hotel &amp; Casino on 4795 Quality Court, Las Vegas, NV 89103. The professional team at Las Vegas Demolition and Environmental Services, LLC.<sup>®</sup> will establish a detailed scope of work including start and stop locations...</p>
 						</div>
 					</article>
 					<article class="type-post col-md-6 col-sm-6 col-xs-12">
@@ -169,7 +175,7 @@
 						</div>
 						<h3 class="entry-title"><a href="#" title="Entry Title">Monaco Tower Implosion</a></h3>
 						<div class="entry-content">
-							<p>The Monaco Tower in Las Vegas has been a beacon, a long standing building that has a long history here in Las Vegas. The Las Vegas Demolition team was tasked with it's carefully and skillfully executed...</p>
+							<p>The Monaco Tower in Las Vegas has been a beacon, a long standing building that has a long history here in Las Vegas. The Las Vegas Demolition team was tasked with it&rsquo;s carefully and skillfully executed...</p>
 						</div>
 					</article>
 				</div><!-- Row /- -->
@@ -255,7 +261,7 @@
 							</div>
 							<div class="col-md-7 col-sm-7 feature-content">
 								<h3>Mold Abatement Removal Experts</h3>
-								<p>The professional team at Las Vegas Demolition, LLC. will establish a detailed scope of work including start and stop locations, square footage, and other tangible points of delineating the quantity of removal. Additionally, proper removal of mold will greatly impact the infected structure owner&rsquo;s financial liability.</p>
+								<p>The professional team at Las Vegas Demolition and Environmental Services, LLC.<sup>®</sup> will establish a detailed scope of work including start and stop locations, square footage, and other tangible points of delineating the quantity of removal. Additionally, proper removal of mold will greatly impact the infected structure owner&rsquo;s financial liability.</p>
 								<a href="mold-abatement-removal.php" title="Mold Abatement Removal" class="contact-button">Mold Abatement Services</a>
 							</div>
 						</div>

@@ -1,4 +1,3 @@
-<script>document.write('<script src="http://' + (location.host || '${1:localhost}').split(':')[0] + ':${2:35729}/livereload.js?snipver=1"></' + 'script>')</script>
 
 <!-- JQuery v1.11.3 -->
 <script src="js/jquery.min.js"></script>
@@ -32,7 +31,7 @@
 <script src="libraries/magnific-popup/jquery.magnific-popup.min.js"></script>
 
 <!-- Library - Google Map API -->
-<script src="//maps.googleapis.com/maps/api/js?v=3.exp"></script>
-
+<!-- <script src="//maps.googleapis.com/maps/api/js?v=3.exp"></script> -->
+<script async defer src="//maps.googleapis.com/maps/api/js?key=AIzaSyCYO3lug3YMyORLXTakfijBUMbAfjiDfz4&callback=initMap" type="text/javascript"></script>
 <!-- Library - Theme JS -->
 <script src="js/functions.js"></script>

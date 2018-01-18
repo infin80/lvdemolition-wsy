@@ -435,8 +435,8 @@
 					//alert(textStatus);
 				}
 			});
+			return false;
 			$('#contact-form').attr("action", "saveQuery").submit();
-		return false;
 		});
 	});
 

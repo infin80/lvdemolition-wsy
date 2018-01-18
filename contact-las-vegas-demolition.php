@@ -45,7 +45,7 @@
 
 				<!-- Page Header -->
 				<div class="container-fluid no-padding page-banner about-banner row">
-					<h3>Las Vegas Demolition&rsquo;s Services</h3>
+					<h3>Contact Us</h3>
 					<ol class="breadcrumb no-padding no-bottom-margin">
 						<li><a href="index.html">Home</a></li>
 						<li class="active">Get in Touch</li>
@@ -58,7 +58,7 @@
 					<figcaption>Main office of Las Vegas Demolition and Environmental Services, LLC.<sup>®</sup> located behind The Orleans Hotel &amp; Casino, just west of S. Decatur Blvd. and south of W. Harmon Ave.</figcaption>
 				</figure><!-- About Section /- -->
 
-				<iframe width="960" height="540" class="center-block" src="https://www.youtube.com/embed/ft-2AVKROGs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<!-- <iframe width="960" height="540" class="center-block" src="https://www.youtube.com/embed/ft-2AVKROGs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
 				<div class="seperator-border row"></div>
 

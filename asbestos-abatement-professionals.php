@@ -12,7 +12,7 @@
 
 	    <meta name="description" content="Las Vegas Demolition safely removes asbestos in compliance with all regulations. Our asbestos abatment service controlls fiber release from asbestos">
 
-	    <title>Asbestos Abatement &amp; Safe Enivronmentally Friendly Removal Las Vegas</title>
+	    <title>Las Vegas Asbestos Detection, Abatement &amp; Safe Removal via Encasement</title>
 
 	<?php
 	$ROOT = '/';
