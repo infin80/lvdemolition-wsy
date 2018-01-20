@@ -1,5 +1,5 @@
 <div class="menu-block">
-  <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#108;&#118;&#100;&#101;&#109;&#111;&#108;&#105;&#116;&#105;&#111;&#110;&#46;&#99;&#111;&#109;"><i class="fa fa-envelope-o"></i>&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#108;&#118;&#100;&#101;&#109;&#111;&#108;&#105;&#116;&#105;&#111;&#110;&#46;&#99;&#111;&#109;</a>
+  <a tel="7022571549"><i class="fa fa-phone"></i> (702) 257-1549</a>
   <nav class="navbar navbar-default ow-navigation">
     <div class="navbar-header">
       <button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
@@ -8,7 +8,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#top"><img src="images/las-vegas-demolition-logo-255.png" width="255" height="70" alt="Las Vegas Demolition, LLC."></a>
+      <a class="navbar-brand" href="index.php"><img src="images/las-vegas-demolition-logo-255.png" width="255" height="70" alt="Las Vegas Demolition and Environmental Services, LLC."></a>
     </div>
     <div class="navbar-collapse collapse no-padding" id="navbar">
       <ul class="nav navbar-nav">
@@ -19,13 +19,13 @@
           <ul class="dropdown-menu">
             <li><a href="las-vegas-demos-and-implosions.php">Demolition/Implosion</a></li>
             <li><a href="asbestos-abatement-professionals.php">Asbestos Abatement</a></li>
-            <li><a href="#" title="mold-abatement-removal" onclick="return false;">Mold Removal</a></li>
+            <li><a href="mold-abatement-removal.php">Mold Removal</a></li>
             <li><a href="#" title="disposal-of-toxic-hazardous-material" onclick="return false;">Hazardous Material</a></li>
             <li><a href="#" title="emergency-response-support" onclick="return false;">Emergency Services</a></li>
           </ul>
         </li>
         <li id="safetynav"><a href="#" title="public-health-and-safe-implosions" onclick="return false;"><i><img src="images/icon/safety-menu.png" alt="Health and Safety" /></i>Health &amp; Safety</a></li>
-        <li id="licensenav"><a href="#" title="demolition-license-and-insurance" onclick="return false;"><i><img src="images/icon/license-menu.png" alt="Insurance &amp; Licenses" /></i>License Insurance</a></li>
+        <li id="unionnav"><a href="#" title="union-affiliation" onclick="return false;"><i><img src="images/icon/license-menu.png" alt="Union Affiliation" /></i>Union Affiliation</a></li>
         <li id="contactnav"><a href="contact-las-vegas-demolition.php"><i><img src="images/icon/contact-phone.png" alt="Contact Us" /></i>Get in Touch</a></li>
       </ul>
     </div><!--/.nav-collapse -->

@@ -75,7 +75,7 @@
 								<img src="images/asbestos-abatement-containment-safety-enclosure.jpg" alt="Excavators demolishing 6-story building" width="550" height="420" class="img-responsive" />
 								<figcaption>Las Vegas Demolition seen here tearing down the six-story Kinkead Building in Carson City. ABC&rsquo;s KOLO 8 <a href="http://www.kolotv.com/content/news/Tearing-down-the-troubled-Kinkead-Building--462180933.html" target="_blank">covers news story</a> from Dec. 05, 2017</figcaption>
 							</figure>
-							<p><b>Las Vegas Demolition and Environmental Services, LLC.</b><sup>®</sup> follows all OSHA and EPA procedures and protocols for controlling fiber release from asbestos containing material in buildings and structures by encapsulation and encasement. Asbestos abatement shall be performed as outlined in our standard operating procedures while referencing applicable federal, state, and local regulations. The references include but not limited to the following:
+							<p><b>Las Vegas Demolition and Environmental Services, LLC.</b><sup>&reg;</sup> follows all OSHA and EPA procedures and protocols for controlling fiber release from asbestos containing material in buildings and structures by encapsulation and encasement. Asbestos abatement shall be performed as outlined in our standard operating procedures while referencing applicable federal, state, and local regulations. The references include but not limited to the following:
 								<ul>
 									<li>OSHA 29 CFR 1926.1101 Asbestos in Construction</li>
 									<li>40 CRF 763 Subpart G, Asbestos Abatement Projects</li>

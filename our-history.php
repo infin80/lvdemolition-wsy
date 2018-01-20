@@ -76,8 +76,8 @@
 				<!-- Team Section -->
 				<div id="team-section" class="team-section container-fluid">
 					<div class="intro-text">
-						<p>Las Vegas offers the most alluring accommodations, restaurants, shows, concerts, nightlife and gaming options in the world. It has become a vacation destination for both the adventurous single to the modern family. Our fine city’s popularity created a demand for Hotels and Casinos to constantly reinvent and renovate their structures.</p>
-						<p><strong>Las Vegas Demolition and Environmental Services, LLC.</strong>><sup>®</sup>, was created on the need to provide Nevada with safe, efficient and quality demolition services in a timely manner due to the mass population growth and increasing tourism. Brothers Joe and Sal Catania have been a force to be reckoned with in the Hotel and Casino demolition industry for over a decade. In addition, the Catania brother’s management team that makes up LVD has been working together on various projects for 15 years with a combined total of 86 years experience in the demolition abatement industry.</p>
+						<p>Las Vegas offers the most alluring accommodations, restaurants, shows, concerts, nightlife and gaming options in the world. It has become a vacation destination for both the adventurous single to the modern family. Our fine city&rsquo;s popularity created a demand for Hotels and Casinos to constantly reinvent and renovate their structures.</p>
+						<p><strong>Las Vegas Demolition and Environmental Services, LLC.</strong><sup>&reg;</sup>, was created on the need to provide Nevada with safe, efficient and quality demolition services in a timely manner due to the mass population growth and increasing tourism. Brothers Joe and Sal Catania have been a force to be reckoned with in the Hotel and Casino demolition industry for over a decade. In addition, the Catania brother&rsquo;s management team that makes up LVD has been working together on various projects for 15 years with a combined total of 86 years experience in the demolition abatement industry.</p>
 					</div>
 
 					<!-- Section Header -->
@@ -144,7 +144,7 @@
 					</div>
 					<img src="images/excavator-for-demolishment-company.jpg" width="339" height="320" class="img-responsive excavator" alt="Demolishment company excavator machinery">
 					<div class="intro-text">
-						<p>As Principals and Co-owners of <b>Las Vegas Demolition, LLC.</b>, Joe and Sal’s responsibilities include ensuring our projects are constantly finished on time and under budget. Moreover, they oversee all project managers, estimators and other critical staff members by advocating for their personal growth and success. As LVD client liaisons they achieve the best personalized utilization of our resources to include manpower, heavy equipment, engineering, etc. for the benefit of the client while monitoring profit and loss of the company.</p>
+						<p>As Principals and Co-owners of <strong>Las Vegas Demolition and Environmental Services, LLC.</strong><sup>&reg;</sup>, Joe and Sal&rsquo;s responsibilities include ensuring our projects are constantly finished on time and under budget. Moreover, they oversee all project managers, estimators and other critical staff members by advocating for their personal growth and success. As LVD client liaisons they achieve the best personalized utilization of our resources to include manpower, heavy equipment, engineering, etc. for the benefit of the client while monitoring profit and loss of the company.</p>
 					</div>
 
 				</div><!-- Team Section /- -->

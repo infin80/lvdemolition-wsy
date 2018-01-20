@@ -68,8 +68,12 @@
 					<div class="row">
 						<div class="col-xs-12 intro-text">
 						<h2>Leave the Heavy Lifting and the Cleanup to the Pros at LVD</h2>
+							<figure class="insetpic">
+								<img src="images/demolition-and-abatement-contractors-services.jpg" alt="Demolition and abatement contractors services" width="550" height="420" class="img-responsive" />
+								<figcaption>Shown here is the messy cleanup work that occurs after the demolition or implosion of large scale structures. LVD is also equipped to handle any hazardous materials that require delicate removal processes.</figcaption>
+							</figure>
 							<p>Las Vegas offers the most alluring accommodations, restaurants, shows, concerts, nightlife and gaming options in the world. It has become a vacation destination for both the adventurous single to the modern family. Our fine city’s popularity created a demand for Hotels and Casinos to constantly reinvent and renovate their structures.</p>
-							<p><strong>Las Vegas Demolition and Environmental Services, LLC.</strong>><sup>®</sup>, was created on the need to provide Nevada with safe, efficient and quality demolition services in a timely manner due to the mass population growth and increasing tourism. Brothers Joe and Sal Catania have been a force to be reckoned with in the Hotel and Casino demolition industry for over a decade. In addition, the Catania brother’s management team that makes up <abbr title="Las Vegas Demolition">LVD</abbr> has been working together on various projects for 15 years with a combined total of 86 years experience in the demolition abatement industry.</p>
+							<p><strong>Las Vegas Demolition and Environmental Services, LLC.</strong><sup>&reg;</sup>, was created on the need to provide Nevada with safe, efficient and quality demolition services in a timely manner due to the mass population growth and increasing tourism. Brothers Joe and Sal Catania have been a force to be reckoned with in the Hotel and Casino demolition industry for over a decade. In addition, the Catania brother’s management team that makes up <abbr title="Las Vegas Demolition">LVD</abbr> has been working together on various projects for 15 years with a combined total of 86 years experience in the demolition abatement industry.</p>
 						</div>
 					</div>
 				</div>

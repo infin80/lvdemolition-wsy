@@ -30,8 +30,5 @@
 <!-- Library - Magnific Popup - v1.0.0 -->
 <script src="libraries/magnific-popup/jquery.magnific-popup.min.js"></script>
 
-<!-- Library - Google Map API -->
-<!-- <script src="//maps.googleapis.com/maps/api/js?v=3.exp"></script> -->
-<script async defer src="//maps.googleapis.com/maps/api/js?key=AIzaSyCYO3lug3YMyORLXTakfijBUMbAfjiDfz4&callback=initMap" type="text/javascript"></script>
 <!-- Library - Theme JS -->
 <script src="js/functions.js"></script>

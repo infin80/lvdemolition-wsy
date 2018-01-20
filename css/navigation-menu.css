@@ -14,16 +14,13 @@
 	width: 310px;
 }
 .menu-block > a {
-	padding-left: 23px;
-	padding-top: 20px;
-	padding-bottom: 21px;
-	font-size: 15px;
-	font-weight: 300;
-	font-style: italic;
+	padding-left: 30px;
+	padding-top: 17px;
+	padding-bottom: 16px;
+	font-size: 18px;
 	display: block;
 	color: #646a6e;
-	line-height: 13px;
-	border-bottom: 1px solid rgba(0,0,0,0.08);
+	line-height: 18px;
 }
 .menu-block > a > i {
 	font-size: 18px;
@@ -44,19 +41,23 @@
 }
 .ow-navigation .navbar-header {
 	float: none;
-	padding: 45px 0;
-	background: #c7c8cb;
+	background: #c7c8cb url('../images/features/logo-block-panel-screws.png') no-repeat center center;
+	height: 130px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	/* text-align: center;
+	vertical-align: middle;
+	display: block; */
 }
 .ow-navigation .navbar-header .navbar-brand {
-	font-size: 45.25px;
-	text-transform: uppercase;
-	letter-spacing: 6.7px;
+	margin: auto;
 	height: auto;
-	padding: 0;
-	line-height: 35px;
-	font-family: 'Roboto';
-	width: 100%;
-	text-align: center;
+}
+.ow-navigation .navbar-header .navbar-brand > img {
+
+
 }
 .ow-navigation .navbar-header .navbar-brand span {
 	color: #132d6e;
@@ -315,7 +316,7 @@ body#contactpage .ow-navigation .nav.navbar-nav li#contactnav > a i::before,
 		top: 0px;
 		color: #a5a7aa;
 	}
-	.ow-navigation .ddl-active > .ddl-switch:before {
+	.ow-navigation .ddl-active > .ddl-switch::before {
 		content: "\f106";
 	}
     .ow-navigation .navbar-header {

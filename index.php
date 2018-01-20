@@ -46,27 +46,33 @@
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner" role="listbox">
 							<div class="item active">
-								<img src="images/slider/slide-1.jpg" alt="Regulations and OSHA compliance adhearance">
+								<img src="images/slider/slide-1.jpg" alt="Regulations and OSHA compliance adhearance" width="1170" height="499">
 								<div class="carousel-caption">
 									<h3>LVD ensures compliance in all <b>demolition &amp; enviromental</b> services</h3>
 								</div>
 							</div>
 							<div class="item">
-								<img src="images/slider/slide-2.jpg" alt="Health and safety commitment">
+								<img src="images/slider/slide-2.jpg" alt="Health and safety commitment" width="1170" height="499">
 								<div class="carousel-caption">
 									<h3>The <b>health and safety</b> of all involved is of utmost importance</h3>
 								</div>
 							</div>
 							<div class="item">
-								<img src="images/slider/slide-3.jpg" alt="Assessment of health hazards">
+								<img src="images/slider/slide-3.jpg" alt="Assessment of health hazards" width="1170" height="499">
 								<div class="carousel-caption">
 									<h3>LVD assesses <b>health hazards</b> prior to beginning any work</h3>
 								</div>
 							</div>
 							<div class="item">
-								<img src="images/slider/6-story-building-demo-slide.jpg" alt="Demolition of large buildings in Las Vegas">
+								<img src="images/slider/6-story-building-demo-slide.jpg" alt="Demolition of large buildings in Las Vegas" width="1170" height="499">
 								<div class="carousel-caption">
-									<h3>Excavator completing the demolition of Kinhead building in Carson City</h3>
+									<h3>Excavator <b>completing the demolition</b> of Kinhead building in Carson City</h3>
+								</div>
+							</div>
+							<div class="item">
+								<img src="images/slider/las-vegas-abatement-and-demo-service-workers.jpg" alt="Abatement and demolition service work in LV" width="1170" height="499">
+								<div class="carousel-caption">
+									<h3>Expert Las Vegas <b>abatement and demolition</b> service workers</h3>
 								</div>
 							</div>
 						</div>
@@ -108,7 +114,7 @@
 							View <b>LVD</b> demolishment process of Palace Station&rsquo;s Bingo Hall and Bungalows (2&#xbd; min)</figcaption>
 						</figure>
 
-						<p><strong>Las Vegas Demolition and Environmental Services, LLC.</strong><sup>®</sup> is a demolition contractor located in the heart of beautiful Las Vegas, Nevada. XX+ years of hands-on experience handling all stages of services, from obtaining permits to the demolition to the clearance of all materials, takes the burden off of our client&rsquo;s shoulders.</p>
+						<p><strong>Las Vegas Demolition and Environmental Services, LLC.</strong><sup>&reg;</sup> is a demolition contractor located in the heart of beautiful Las Vegas, Nevada. XX+ years of hands-on experience handling all stages of services, from obtaining permits to the demolition to the clearance of all materials, takes the burden off of our client&rsquo;s shoulders.</p>
 						<p>Additionally, <abbr title="Las Vegas Demolition and Environmental Services, LLC.®">LVD</abbr> is fully equipped to handle, manage and control the elimination of hazardous materials and safe-guarding the public and perimeters. This ensuring the health and safety of all the citizens as well as protection from any damage to surrounding structures.</p>
 						<p>LVD is consistently advancing the techniques involved and containment of potentially dangerous debris and efficiently prepare for the takedown and cleanup of the surrounding area. Our clients need not concern themselves with the size, safety and/or removal of the demolished property. LVD&rsquo;s immaculate reputation stems from our dedicated and experienced employees, supervisors up to the top of the chain, our management.</p>
 						<blockquote>At <b>LVD</b>, experience and dedication to our clients to perform efficient and effective demolition services of all types of buildings is a priority.</blockquote>
@@ -161,7 +167,7 @@
 						</div>
 						<h3 class="entry-title"><a href="#" title="Entry Title">Las Vegas Demolition Headquarters</a></h3>
 						<div class="entry-content">
-							<p>Put some good copy here. Our main office is located near The Orleans Hotel &amp; Casino on 4795 Quality Court, Las Vegas, NV 89103. The professional team at Las Vegas Demolition and Environmental Services, LLC.<sup>®</sup> will establish a detailed scope of work including start and stop locations...</p>
+							<p>Put some good copy here. Our main office is located near The Orleans Hotel &amp; Casino on 4795 Quality Court, Las Vegas, NV 89103. The professional team at Las Vegas Demolition and Environmental Services, LLC.<sup>&reg;</sup> will establish a detailed scope of work including start and stop locations...</p>
 						</div>
 					</article>
 					<article class="type-post col-md-6 col-sm-6 col-xs-12">
@@ -261,7 +267,7 @@
 							</div>
 							<div class="col-md-7 col-sm-7 feature-content">
 								<h3>Mold Abatement Removal Experts</h3>
-								<p>The professional team at Las Vegas Demolition and Environmental Services, LLC.<sup>®</sup> will establish a detailed scope of work including start and stop locations, square footage, and other tangible points of delineating the quantity of removal. Additionally, proper removal of mold will greatly impact the infected structure owner&rsquo;s financial liability.</p>
+								<p>The professional team at Las Vegas Demolition and Environmental Services, LLC.<sup>&reg;</sup> will establish a detailed scope of work including start and stop locations, square footage, and other tangible points of delineating the quantity of removal. Additionally, proper removal of mold will greatly impact the infected structure owner&rsquo;s financial liability.</p>
 								<a href="mold-abatement-removal.php" title="Mold Abatement Removal" class="contact-button">Mold Abatement Services</a>
 							</div>
 						</div>
@@ -307,6 +313,5 @@
 	<!-- JavaScripts Block -->
 		<?php include_once('inc/javascripts.php'); ?>
 	<!-- /JavaScripts Block /- -->
-<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
 </body>
 </html>
