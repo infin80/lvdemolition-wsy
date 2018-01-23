@@ -52,9 +52,16 @@
 					</ol>
 				</div><!-- Page Header /- -->
 
-				<!-- About Section -->
+				<!-- About Section
+				<figure id="about-section" class="about-section container-fluid">
+					<img src="images/experienced-las-vegas-demolition-contractors.jpg" alt="Experienced Las Vegas demolition contractors company" width="1110" height="534" />
+					<figcaption>With many years under our belt, Las Vegas Demolition and Environmental Services, LLC.<sup>®</sup> and our contractors will make any project hassle-proof.
+					</figcaption>
+				</figure>-->
+
+				<!-- About Section /- -->
 				<div id="about-section" class="about-section container-fluid">
-					<img src="images/about/structural-demolition-services-in-las-vegas.jpg" alt="Las Vegas structural demolition services" width="1110" height="534" />
+					<img src="images/experienced-las-vegas-demolition-contractors.jpg" alt="Experienced Las Vegas demolition contractors company" width="1110" height="534" />
 					<div class="row">
 						<div class="col-md-4 col-sm-4 about-box">
 							<h3><i class="icon_genius"></i>Exclusive <span>Knowledge</span></h3>
@@ -69,15 +76,36 @@
 							<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh</p>
 						</div>
 					</div>
-				</div><!-- About Section /- -->
+				</div>
+				<!-- /About Section -->
 
 				<div class="seperator-border row"></div>
+
+				<!-- Main Section -->
+				<main id="service-section" class="service-section container-fluid">
+					<div class="section-header">
+						<h1>A History Built on Trust, Safety &amp; Professionalism</h1>
+					</div>
+					<div class="row">
+						<div class="col-xs-12 intro-text">
+						<h2>LVD has the Knowledge, Experience &amp; Tools to Get the Job Done Right</h2>
+							<figure class="insetpic">
+								<img src="images/asbestos-abatement-containment-safety-enclosure.jpg" alt="Asbestos containment safety enclosure" width="550" height="420" class="img-responsive" />
+								<figcaption>In order to ensure proper abatement which is essentially controlling the fibers releasing from the asbestos containing material in buildings, we encapsulate and encase the affected area(s)</figcaption>
+							</figure>
+							<p>Las Vegas offers the most alluring accommodations, restaurants, shows, concerts, nightlife and gaming options in the world. It has become a vacation destination for both the adventurous single to the modern family. Our fine city&rsquo;s popularity created a demand for Hotels and Casinos to constantly reinvent and renovate their structures.</p>
+							<p><strong>Las Vegas Demolition and Environmental Services, LLC.</strong><sup>&reg;</sup>, was created on the need to provide Nevada with safe, efficient and quality demolition services in a timely manner due to the mass population growth and increasing tourism. Brothers Joe and Sal Catania have been a force to be reckoned with in the Hotel and Casino demolition industry for over a decade. In addition, the Catania brother&rsquo;s management team that makes up <abbr title="Las Vegas Demolition and Environmental Services, LLC.®">LVD</abbr> has been working together on various projects for 15 years with a combined total of 86 years experience in the demolition abatement industry.</p>
+							<a href="contact-las-vegas-demolition.php" title="Get in Touch" class="contact-button">Let&rsquo;s Discuss Your Project</a>
+						</div>
+					</div>
+				</main>
+
+
 
 				<!-- Team Section -->
 				<div id="team-section" class="team-section container-fluid">
 					<div class="intro-text">
-						<p>Las Vegas offers the most alluring accommodations, restaurants, shows, concerts, nightlife and gaming options in the world. It has become a vacation destination for both the adventurous single to the modern family. Our fine city&rsquo;s popularity created a demand for Hotels and Casinos to constantly reinvent and renovate their structures.</p>
-						<p><strong>Las Vegas Demolition and Environmental Services, LLC.</strong><sup>&reg;</sup>, was created on the need to provide Nevada with safe, efficient and quality demolition services in a timely manner due to the mass population growth and increasing tourism. Brothers Joe and Sal Catania have been a force to be reckoned with in the Hotel and Casino demolition industry for over a decade. In addition, the Catania brother&rsquo;s management team that makes up LVD has been working together on various projects for 15 years with a combined total of 86 years experience in the demolition abatement industry.</p>
+
 					</div>
 
 					<!-- Section Header -->

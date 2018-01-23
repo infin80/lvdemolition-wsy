@@ -32,3 +32,10 @@
 
 <!-- Library - Theme JS -->
 <script src="js/functions.js"></script>
+
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">
+  try {
+      clicky.init(101034981);
+  } catch (e) {}
+</script>

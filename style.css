@@ -299,13 +299,16 @@ ul {
 }
 
 /* -- max-width: 580 */
-.top-social li a, .call-content a, .service-section .tab-content .tab-pane > a, .service-section .intro-text a:last-of-type, .entry-title a, .plan-select a, .feature-box span, .get-in-touch ul li, .bottom-footer ul li a, .flicker .bx-wrapper ul li a img, .flicker .bx-wrapper .bx-prev, .flicker .bx-wrapper .bx-next, .about-box h3, .promo-box i, .promo-section .col-md-8 > a, .type-post > a.read-more, .widget-area .recent-content h3 a, .blog-post .content-area .tags a, .comment-form input[type="submit"], .contact-form input[type="submit"], .product-box > h3 a, .product-hover a, .product-detail .summary .choose-color a::before, .product-detail .summary .size > a, .product-detail .quantity > a, .product-detail .quantity-block > a.add-to-wishlist, .product-detail .add-to-cart a, .coupon-code .input-group-btn .btn, .shipping-calculate button, .order-summary-content > .col-md-8 a, .price-table, .pricing-section2 .price-table .plan-title h3::before, a.contact-button {
+.top-social li a, .call-content a, .service-section .tab-content .tab-pane > a, .entry-title a, .plan-select a, .feature-box span, .get-in-touch ul li, .bottom-footer ul li a, .flicker .bx-wrapper ul li a img, .flicker .bx-wrapper .bx-prev, .flicker .bx-wrapper .bx-next, .about-box h3, .promo-box i, .promo-section .col-md-8 > a, .type-post > a.read-more, .widget-area .recent-content h3 a, .blog-post .content-area .tags a, .comment-form input[type="submit"], .contact-form input[type="submit"], .product-box > h3 a, .product-hover a, .product-detail .summary .choose-color a::before, .product-detail .summary .size > a, .product-detail .quantity > a, .product-detail .quantity-block > a.add-to-wishlist, .product-detail .add-to-cart a, .coupon-code .input-group-btn .btn, .shipping-calculate button, .order-summary-content > .col-md-8 a, .price-table, .pricing-section2 .price-table .plan-title h3::before, a.contact-button {
 	-webkit-transition: all .6s ease-out 0s;
 	-moz-transition: all .6s ease-out 0s;
 	-o-transition: all .6s ease-out 0s;
 	transition: all .6s ease-out 0s;
 }
-
+.intro-text a.contact-button {
+	margin-bottom: 35px;
+	display: inline-block;
+}
 
 /* -- Section Header */
 .section-header {
@@ -715,14 +718,17 @@ ul {
 
 /* -- max-width: 580 */
 .page-banner .breadcrumb > .active {
-	color: #c7c8cb;
+	color: #a5a7aa;
+	font-weight: 400px
+
 }
 .breadcrumb > li + li::before {
 	content:"\f0a9";
 	font-family:'FontAwesome';
-	color: #132d6e;
-	font-size: 14px;
-	margin: 0 8px;
+	color: rgba(19, 46, 99, .7);
+	font-size: 12px;
+	margin: 0 5px;
+	text-shadow: none;
 }
 /*.menu-block.navbar-fixed-top {
 	position: fixed;

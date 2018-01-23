@@ -1,39 +1,45 @@
 
+.slider-section .carousel-control {
+    background-image: none;
+    background-color: #132d6e;
+    width: 60px;
+    height: 60px;
+    opacity: .88;
+    text-shadow: none;
+    line-height: 60px;
+    right: 0;
+    left: auto;
+    top: 0;
+    -webkit-transition: all 0.6s ease 0s;
+    -moz-transition: all 0.6s ease 0s;
+    -o-transition: all 0.6s ease 0s;
+    transition: all 0.6s ease 0s;
+}
+.slider-section .carousel-control.left {
+	top: 65px;
+}
+.slider-section .carousel-control:hover {
+	background-color: rgba(63,65,68,0.6);
+}
+.slider-section .carousel-inner .item > .carousel-caption {
+    position: absolute;
+    right: 0;
+    bottom: -30px;
+    width: auto;
+    left: unset;
+}
 .slider-section .carousel-caption h3 {
-	display: inline-block;
-	margin: 0;
-	background-color: rgba(63,65,68,0.5);
-	padding: 20px 25px;
-	font-family: 'Economica',cursive;
-	letter-spacing: 1px;
-	font-weight: 400;
-	text-shadow: 0 1px 4px #333;
+    margin: 0;
+    background-color: rgba(63,65,68,0.5);
+    padding: 20px 25px 20px 30px;
+    font-family: 'Economica',cursive;
+    letter-spacing: 1px;
+    font-weight: 400;
+    text-shadow: 0 1px 4px #333;
 }
 .slider-section .carousel-caption h3 b {
 	color: #dea118;
 	font-weight: 700;
-}
-.slider-section .carousel-control {
-	background-image: none;
-	background-color: #132d6e;
-	width: 60px;
-	height: 60px;
-	opacity: 1;
-	text-shadow: none;
-	line-height: 60px;
-	right: 30px;
-	left: auto;
-	top: 30px;
-	-webkit-transition: all 0.6s ease 0s;
-	-moz-transition: all 0.6s ease 0s;
-	-o-transition: all 0.6s ease 0s;
-	transition: all 0.6s ease 0s;
-}
-.slider-section .carousel-control.left {
-	top: 100px;
-}
-.slider-section .carousel-control:hover {
-	background-color: #8e8f92;
 }
 .call-to-action::before {
 	content: "";
@@ -239,7 +245,7 @@ figure > img {
 
 
 /* -- max-width: 991 */
-.service-section .tab-content .tab-pane > a, .service-section .intro-text a:last-of-type, a.contact-button {
+.service-section .tab-content .tab-pane > a, a.contact-button {
 	font-size: 14px;
 	margin-top: 10px;
 }

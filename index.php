@@ -143,7 +143,7 @@
 
 						<p>Managing a project safely, on time, and within budget is what sets us apart from our competition.</p>
 
-						<a href="#" title="Schedule an Appointment" class="contact-button">Schedule an Appointment</a>
+						<a href="contact-las-vegas-demolition.php" title="Schedule an Appointment" class="contact-button">Schedule an Appointment</a>
 					</div>
 				</div>
 			</div><!-- Services Section /- -->
@@ -258,7 +258,7 @@
 								<h3>Asbestos Abatement Removal Company</h3>
 								<p>Any home or building owner may encounter an asbestos-containing material (ACM) during the course of renovation, repair or demolition. ACMs can include insulation, plaster, floor or ceiling tiles, plaster, ductwork, roofing shingles, adhesives, and more.</p>
 								<p>As multiple scientific and regulatory bodies assert, there is no safe level of asbestos.</p>
-								<a href="asbestos-abatement.php" title="Asbestos Abatement Removal Company" class="contact-button">Asbestos Abatement &amp; Removal</a>
+								<a href="asbestos-abatement-professionals.php" title="Asbestos Abatement Removal Company" class="contact-button">Asbestos Abatement &amp; Removal</a>
 							</div>
 						</div>
 						<div role="tabpanel" class="tab-pane active" id="mold-removal">
@@ -278,7 +278,7 @@
 							<div class="col-md-7 col-sm-7 feature-content">
 								<h3>Hazardous Material Disposal</h3>
 								<p>Las Vegas Demolition takes precaution and the health and safety of the community seriously, effectively and go above and beyond other local removal companies. Extreme care, expeditious removal and management of hazardous material is performed masterfully by our experts. The term &lsquo;Cradle to Grave&rsquo; is a responsibility used to describe the liability and ownership for any facility or person that generates a hazardous material that is classified as a hazardous substance.</p>
-								<a href="hazardous-material-disposal.php" title="Hazardous Material Disposal" class="contact-button">Hazardous Material Disposal</a>
+								<a href="disposal-of-toxic-hazardous-material.php" title="Hazardous Material Disposal" class="contact-button">Hazardous Material Disposal</a>
 							</div>
 						</div>
 						<div role="tabpanel" class="tab-pane" id="24hr-emergency">
@@ -296,7 +296,6 @@
 					</div><!-- Tab panes /- -->
 				</div>
 			</div><!-- Features Section /- -->
-
 
 			<?php include('inc/testimonials.php'); ?>
 
