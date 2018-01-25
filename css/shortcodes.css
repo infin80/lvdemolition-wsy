@@ -122,15 +122,21 @@
 	margin: 0 0 5px 25px;
 	padding: 10px 0 20px 10px;
 	color: #132d6e;
+	border: none;
 }
 .service-section .intro-text ul li {
-	font-family: 'Archivo',sans-serif;
-	font-weight: 600;
-	font-size: 15px;
-	line-height: 18px;
-	margin: 3px 0 10px 2px;
-	padding: 0;
-	color: #474849;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    margin: 2px 0 8px 15px;
+    padding-left: 5px;
+    color: #474849;
+    list-style-position: outside;
+}
+.service-section .intro-text ul > h4 {
+	color: #4E6292;/* #314780 */
+	font-family: 'Archivo Narrow', san-serif;
 }
 .service-section .intro-text .excavator {
 	margin: 25px -15px 0 20px;
@@ -186,11 +192,7 @@ figure > img {
 	text-align:center;
 	margin: auto;
 }
-/* .fright-image { */
-.no-right-margin {
-	float: right;
-	max-width: 25%;
-}
+.float-right {float: right;}
 
 .service-section .intro-text ul.normal li {
 	font-family: 'Archivo',sans-serif;
@@ -202,20 +204,27 @@ figure > img {
     color: #474849;
     border: none;
     white-space: nowrap;
-
+}
+.service-section .intro-text .list-group .list-group-item {
+	margin-left: 0px;
+	padding: 0 5px 10px 20px ;
 }
 #palaceMovie {margin: auto}
 
 .seperator-border {
 	display: block;
 	border: 2px solid rgba(199, 200, 203, .75);
-	border-bottom: 1px solid #FAFBFC;
+	border-bottom: 1px solid #fff;
 	width: 97.5%;
 	margin: 0 auto;
 	text-align: center;
 }
-
-
+.w100 {width: 100%; margin: 5px auto 35px;}
+.hard-hat {
+	float: right;
+	max-width: 33%;
+	vertical-align: bottom;
+}
 .service-section .tab-content {
 	border: 1px solid #FAFBFC;
 	padding: 40px 49px;
@@ -4141,7 +4150,12 @@ figure > img {
 	.team-section .col-xs-6 {
 		width: 100%;
 	}
-
+	.hard-hat {
+		max-width: 66%;
+		display: block;
+		margin: 10px auto;
+		float: none;
+	}
 	/* -- Pricing Section */
 	.price-table .plan-title h4 sup {
 		font-size: 22px;

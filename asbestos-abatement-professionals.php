@@ -56,8 +56,8 @@
 
 				<!-- About Section -->
 				<figure id="about-section" class="about-section container-fluid">
-					<img src="images/asbestos-removal-and-abatement-las-vegas.jpg" alt="Asbestos abatement services by the pros in Las Vegas" width="1110" height="534" />
-					<figcaption>The safety precautions and green, environmentally-friendly techniques used by the LVD asbestos abatement experts. Our asbestos removal specialists control toxic fibers releasing into the air in buildings and structures by encapsulation and encasement.
+					<img src="images/asbestos-abatement-removal-from-hotels-casinos.jpg" alt="Professional asbestos abatement services in Las Vegas" width="1110" height="534" />
+					<figcaption>LVD asbestos abatement contractors are removal specialists in controling toxic fibers be released into the air in buildings and structures by encapsulation and encasement.
 					</figcaption>
 				</figure><!-- About Section /- -->
 
@@ -66,7 +66,7 @@
 				<!-- Main Section -->
 				<main id="service-section" class="service-section container-fluid">
 					<div class="section-header">
-						<h1>The Las Vegas Asbestos Abatement &amp; Removal Experts at your Service 24/7</h1>
+						<h1>The Las Vegas Asbestos Abatement, Remediation &amp; Removal Pros</h1>
 					</div>
 					<div class="row">
 						<div class="col-xs-12 intro-text">
@@ -108,9 +108,9 @@
 
 					<a href="contact-las-vegas-demolition.php" title="Get an Estimate" class="contact-button">Get an Estimate</a>
 
-					<h4>Asbestos History Timeline</h4>
-					<p>Many buildings contain asbestos, which was used in spray-applied flame retardant, thermal system insulation, and in a variety of other materials. Asbestos was sometimes "flocked" above false ceilings, inside technical ducts, and in many other small spaces where firefighters would have difficulty gaining access. Structural components like asbestos panels were also used. In residences, asbestos was often a component of a type of flocked acoustic ceiling called popcorn ceiling or "cottage cheese ceiling", until its production was banned in the US in 1978. However, the ban allowed installers to use up remaining stocks.</p>
-					<p>Mastic products containing asbestos is still being produced and installed in current construction. I fact asbestos containing building materials can be found at your local home improvement stores. Below is a list (<em>not a comprehensive list</em>) of products containing asbestos:</p>
+					<h4>Asbestos&rsquo; History</h4>
+					<p>Many buildings contain asbestos, which was used in spray-applied flame retardant, thermal system insulation, and in a variety of other materials. Asbestos was sometimes &ldquo;flocked&rdquo; above false ceilings, inside technical ducts, and in many other small spaces where firefighters would have difficulty gaining access. Structural components like asbestos panels were also used. In residences, asbestos was often a component of a type of flocked acoustic ceiling called popcorn ceiling or &ldquo;cottage cheese ceiling,&rdquo; until its production was banned in the US in 1978. However, the ban allowed installers to use up remaining stocks.</p>
+					<p>Mastic products containing asbestos is still being produced and installed in current construction. In fact, asbestos containing building materials can be found at your local home improvement stores. Below is a list (<em>not a comprehensive list</em>) of products containing asbestos:</p>
 					<p>
 					<ul class="list-group row normal">
 						<li class="list-group-item col-xs-6 col-sm-4 col-md-3">Resin Cement</li>
@@ -160,11 +160,15 @@
 						<li class="list-group-item col-xs-6 col-sm-4 col-md-3">Water Putty</li>
 					</ul>
 					</p>
-					<h4>Asbestos History and Timeline:</h4>
-					<img src="images/asbestos-abatement-expert-technician.png" width="500" height="700" alt="Asbestos abatement and removal expert technician" class="no-right-margin">
-					<p>
-					<ul class="normal">
-						<li><strong>2000:</strong> BC Egyptians use asbestos to make burial shrouds</li>
+
+					<div class="seperator-border w100"></div>
+
+					<h4>Asbestos&rsquo; Timeline</h4>
+					<p>An historical timeline of asbestos from its creation over 2,000 years ago throughout its&rsquo; use in past and modern societies.</p>
+
+					<ul>
+					<img src="images/asbestos-abatement-expert-technician.png" width="450" height="650" alt="Asbestos abatement and removal expert technician" class="img-responsive hard-hat">
+						<li><strong>2000 B.C.:</strong> Egyptians use asbestos to make burial shrouds</li>
 						<li><strong>1828:</strong> First U.S. patent for asbestos is issued</li>
 						<li><strong>1858:</strong> Birth of Asbestos in U.S. Industry</li>
 						<li><strong>1918:</strong> U.S. Government Recognizes Asbestos Risk</li>
@@ -200,7 +204,7 @@
 						<li><strong>2012:</strong> Asbestos consumption in the United States was estimated to be 1,060 tons</li>
 						<li><strong>2014:</strong> Asbestos consumption in the United States was estimated to be 400 tons</li>
 						<li><strong>2017:</strong> President Trump will likely support Asbestos &ldquo;FACT Act&rdquo;</li>
-					</ul></p>
+					</ul>
 					<p>More than 50 nations have banned asbestos, but the U.S. still permits its citizens to be exposed to the hazardous material. As multiple scientific and regulatory bodies assert, there is no safe level of asbestos.</p>
 				</div>
 			</div>

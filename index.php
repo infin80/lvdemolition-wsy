@@ -89,12 +89,12 @@
 			<!-- Services Section -->
 			<div id="service-section" class="service-section container-fluid">
 				<div class="section-header">
-					<h1>Welcome to Las Vegas Demolition and Environmental Services, LLC.<sup>®</sup></h1>
+					<h1>Welcome to Las Vegas Demolition and Environmental Services, LLC.<sup>&reg;</sup></h1>
 				</div>
 					<div class="row">
 						<div class="col-xs-12 intro-text">
 
-						<h2>The Demolishment Company Las Vegas Turns to for Elegant Headlines Here</h2>
+						<h2>The Demolishment Abatement Company Las Vegas Turns to for Results</h2>
 						<figure class="video-container">
 						<video id="palaceMovie" controls="controls" poster="video/palace-station-hotel-casino-demolition-las-vegas.jpg" width="640" height="350" class="img-responsive">
 							<source src="video/las-vegas-demo-palace-station-1280x720.mp4" type="video/mp4" />
@@ -111,14 +111,14 @@
 							<!-- <source src="video/las-vegas-demo-palace-station-iphone-475x269.mp4" type="video/mp4"> -->
 						</video>
 						<figcaption><strong>Demolition of Palace Station</strong><br>
-							View <b>LVD</b> demolishment process of Palace Station&rsquo;s Bingo Hall and Bungalows (2&#xbd; min)</figcaption>
+							View <b>LVD</b>&rsquo;s demo of the Palace Station&rsquo;s Bingo Hall and Bungalows (2&#xbd; min)</figcaption>
 						</figure>
 
-						<p><strong>Las Vegas Demolition and Environmental Services, LLC.</strong><sup>&reg;</sup> is a demolition contractor located in the heart of beautiful Las Vegas, Nevada. XX+ years of hands-on experience handling all stages of services, from obtaining permits to the demolition to the clearance of all materials, takes the burden off of our client&rsquo;s shoulders.</p>
-						<p>Additionally, <abbr title="Las Vegas Demolition and Environmental Services, LLC.®">LVD</abbr> is fully equipped to handle, manage and control the elimination of hazardous materials and safe-guarding the public and perimeters. This ensuring the health and safety of all the citizens as well as protection from any damage to surrounding structures.</p>
+						<p><strong>Las Vegas Demolition and Environmental Services, LLC.</strong><sup>&reg;</sup> is a demolition contractor located in Las Vegas, Nevada. <abbr title="Las Vegas Demolition and Environmental Services, LLC.">LVD</abbr> has 25+ years of hands-on experience handling all stages of services, from obtaining permits to the demolition to the clearance of all materials, takes the burden off of our client&rsquo;s shoulders.</p>
+						<p>Additionally, LVD is fully equipped to handle, manage and control the elimination of hazardous materials and safe-guarding the public and perimeters. This ensuring the health and safety of all the citizens as well as protection from any damage to surrounding structures.</p>
 						<p>LVD is consistently advancing the techniques involved and containment of potentially dangerous debris and efficiently prepare for the takedown and cleanup of the surrounding area. Our clients need not concern themselves with the size, safety and/or removal of the demolished property. LVD&rsquo;s immaculate reputation stems from our dedicated and experienced employees, supervisors up to the top of the chain, our management.</p>
 						<blockquote>At <b>LVD</b>, experience and dedication to our clients to perform efficient and effective demolition services of all types of buildings is a priority.</blockquote>
-						<p>Because we maintain our own fleet of powerful and necessary machinery, LVD is at the ready, prepared to knock down/demolish <strong>any size job</strong>! We are able to handle a wide variety of structures, such as:
+						<p>Because we maintain our own fleet of demolition machinery, LVD is at the ready, prepared to professionally handle <strong>any size job</strong>! We are able to handle a wide variety of structures, such as:
 							<ul>
 								<li>Hotels and Casinos</li>
 								<li>Apartments and High-rise buildings</li>
@@ -126,7 +126,7 @@
 								<li>Power Plants</li>
 								<li>Airports</li>
 								<li>Commercial office buildings</li>
-								<li>Parking Garages?</li>
+								<li>Parking Garages</li>
 								<li>Virtually any large to enormous sized structure</li>
 							</ul>
 						</p>
@@ -160,28 +160,26 @@
 				<div class="row">
 					<article class="type-post col-md-6 col-sm-6 col-xs-12">
 						<div class="entry-cover">
-							<!-- <a href="#" title="Entry Cover"><img src="images/blog/latest-1.jpg" alt="latest-1"/></a> -->
-
-							<img src="images/las-vegas-demolition-building-office.jpg" width="600" height="425" alt="Las Vegas Demolition Office Building" class="img-responsive">
+							<img src="images/las-vegas-demolition-and-environmental-office.jpg" width="540" height="370" alt="Las Vegas Demolition Office Building" class="img-responsive">
 							<a href="#" title="Read More" class="read-more">Read More</a>
 						</div>
 						<h3 class="entry-title"><a href="#" title="Entry Title">Las Vegas Demolition Headquarters</a></h3>
 						<div class="entry-content">
-							<p>Put some good copy here. Our main office is located near The Orleans Hotel &amp; Casino on 4795 Quality Court, Las Vegas, NV 89103. The professional team at Las Vegas Demolition and Environmental Services, LLC.<sup>&reg;</sup> will establish a detailed scope of work including start and stop locations...</p>
+							<p>Las Vegas Demolition and Environmental Services, LLC.<sup>&reg;</sup> main office is located near The Orleans Hotel &amp; Casino on 4795 Quality Court, Las Vegas, NV 89103. The professional team at LVD will establish a detailed scope of work including &hellip;</p>
 						</div>
 					</article>
 					<article class="type-post col-md-6 col-sm-6 col-xs-12">
 						<div class="entry-cover">
-							<a href="#" title="Entry Cover"><img src="images/blog/latest-2.jpg" alt="latest-2" width="540" height="370" /></a>
+							<a href="#" title="Entry Cover"><img src="images/kinkead-building-demolition-project.jpg" alt="Demolition project details for Kinkead Building" width="540" height="370" /></a>
 							<div class="entry-meta">
-								<div class="posted-on"><span>Jul</span><i>13</i></div>
-								<div class="post-comment"><a href="#" title="comment"><i class="fa fa-commenting-o"></i></a><span>10</span></div>
+								<div class="posted-on"><span>Oct</span><i>29</i></div>
+								<div class="post-comment"><a href="#" title="comment"><i class="fa fa-commenting-o"></i></a><span>2017</span></div>
 							</div>
 							<a href="#" title="Read More" class="read-more">Read More</a>
 						</div>
-						<h3 class="entry-title"><a href="#" title="Entry Title">Monaco Tower Implosion</a></h3>
+						<h3 class="entry-title"><a href="#" title="Entry Title">Kinkead Building Demolition Project</a></h3>
 						<div class="entry-content">
-							<p>The Monaco Tower in Las Vegas has been a beacon, a long standing building that has a long history here in Las Vegas. The Las Vegas Demolition team was tasked with it&rsquo;s carefully and skillfully executed...</p>
+							<p>Las Vegas Demolition and Environmental Services was tasked with the teardown of the Kinkead Building in Carson City, Nevada. The building&rsquo;s sad and tragic history (read historical timeline @ <a href="http://aroundcarson.com/2005/11/11/the_saga_of_the_kinkead_building">https://goo.gl/eCP1bX</a>) finally came to a &hellip;</p>
 						</div>
 					</article>
 				</div><!-- Row /- -->

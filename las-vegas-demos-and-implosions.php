@@ -82,6 +82,7 @@
 						</div>
 					</div>
 				</div>
+						<!-- <img src="images/demolition-implosion-expert-contractor.png" width="450" height="650" alt="Demolition and implosions experts" class="img-responsive hard-hat"> -->
 
 <!-- Section Header -->
 									<div class="section-header">

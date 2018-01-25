@@ -63,12 +63,25 @@ a:visited {
     outline: 0 !important;
     color: #314780;
 }
-.main-content p a {
+main p a {
     color: #132d6e;
     font-weight: 600;
     text-decoration: underline;
     /* text-shadow: 0 0 5px rgba(78, 98, 146, .5); */
     /* border-bottom: 1px solid rgba(19, 45, 110, .5); */
+}
+blockquote {
+    font-family: 'Archivo Narrow', sans-serif;
+    font-weight: 400;
+    padding: 10px 20px;
+    margin: 5px 20px 25px 35px;
+    font-size: 19px;
+    line-height: 24px;
+    border-left: 5px solid #314780;
+    color: #8e8f92;
+}
+.list-group-item {
+	border: none;
 }
 
 .color-w {color: #FAFBFC;} /* rgb(250, 251, 252) */
@@ -294,7 +307,7 @@ ul {
 }
 
 /* -- max-width: 580 */
-.call-content a, .service-section .tab-content .tab-pane > a, .service-section .intro-text a:last-of-type, .recent-work > div .portfolio-switch, .portfolio-item-hover .portfolio-title, .portfolio-item-hover > a, .entry-cover > a.read-more, .type-post > a.read-more:hover, .feature-content, .team-box ul li a, .team-box span::before, .price-table .plan-title h3, .price-table .plan-title h4, .plan-select a:hover, .testimonial-section, .feature-box span i, .promo-section .col-md-8 > a, .branding-content, .branding-section ul, .pricing-section2 .plan-select a, .widget-area .btn-default, .widget-area .widget-social a, .widget-area .widget-social a:hover, .post-pagination ul li a:hover, .post-pagination ul li a:focus, .blog-post .content-area .tags a, .blog-post .content-area .social-icons li a, .post-comment .media-content span, .comment-form input[type="submit"], .product-image .new, .product-hover a, .products nav .pagination li a:hover, .products nav .pagination li a:focus, .product-section .widget-area .panel-default > .panel-heading, .product-section .panel-body .size a:hover, .product-section .price-filter .filter, .product-detail .summary .size > a:hover, .product-detail .quantity > a, .product-detail .add-to-cart, .related-product h4, .coupon-code .input-group-btn .btn, .shipping-calculate button, .order-summary-content > .col-md-8 a, .checkout-content input[type="submit"], .wc-proceed-to-checkout h4, .wc-proceed-to-checkout h5, .wc-proceed-to-checkout p, .checkout .col-md-4 .input-group-addon, .contact-block i:hover, .contact-form input[type="submit"], a.contact-button {
+.call-content a, .service-section .tab-content .tab-pane > a, .recent-work > div .portfolio-switch, .portfolio-item-hover .portfolio-title, .portfolio-item-hover > a, .entry-cover > a.read-more, .type-post > a.read-more:hover, .feature-content, .team-box ul li a, .team-box span::before, .price-table .plan-title h3, .price-table .plan-title h4, .plan-select a:hover, .testimonial-section, .feature-box span i, .promo-section .col-md-8 > a, .branding-content, .branding-section ul, .pricing-section2 .plan-select a, .widget-area .btn-default, .widget-area .widget-social a, .widget-area .widget-social a:hover, .post-pagination ul li a:hover, .post-pagination ul li a:focus, .blog-post .content-area .tags a, .blog-post .content-area .social-icons li a, .post-comment .media-content span, .comment-form input[type="submit"], .product-image .new, .product-hover a, .products nav .pagination li a:hover, .products nav .pagination li a:focus, .product-section .widget-area .panel-default > .panel-heading, .product-section .panel-body .size a:hover, .product-section .price-filter .filter, .product-detail .summary .size > a:hover, .product-detail .quantity > a, .product-detail .add-to-cart, .related-product h4, .coupon-code .input-group-btn .btn, .shipping-calculate button, .order-summary-content > .col-md-8 a, .checkout-content input[type="submit"], .wc-proceed-to-checkout h4, .wc-proceed-to-checkout h5, .wc-proceed-to-checkout p, .checkout .col-md-4 .input-group-addon, .contact-block i:hover, .contact-form input[type="submit"], a.contact-button {
 	color: rgba(255,255,255,.95);
 }
 
@@ -305,7 +318,7 @@ ul {
 	-o-transition: all .6s ease-out 0s;
 	transition: all .6s ease-out 0s;
 }
-.intro-text a.contact-button {
+a.contact-button {
 	margin-bottom: 35px;
 	display: inline-block;
 }
